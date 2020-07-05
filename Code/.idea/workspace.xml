@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a5f1fde-8c4a-404e-b2ff-3587baf4fd27" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/input/yolov5tta/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/input/yolov5tta/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input/yolov5tta/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/input/yolov5tta/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input/yolov5tta/data/get_coco2017.sh" beforeDir="false" afterPath="$PROJECT_DIR$/input/yolov5tta/data/get_coco2017.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input/yolov5tta/models/yolo.py" beforeDir="false" afterPath="$PROJECT_DIR$/input/yolov5tta/models/yolo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input/yolov5tta/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input/yolov5tta/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input/yolov5tta/utils/datasets.py" beforeDir="false" afterPath="$PROJECT_DIR$/input/yolov5tta/utils/datasets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input/yolov5tta/utils/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/input/yolov5tta/utils/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input/yolov5tta/weights/download_weights.sh" beforeDir="false" afterPath="$PROJECT_DIR$/input/yolov5tta/weights/download_weights.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/input/yolov5tta" />
+  </component>
+  <component name="ProjectId" id="1eDz9AzSECVb7McUzoZDDywv32a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="D:/Apps/Anaconda/Anaconda5.2.0/envs/wheat" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="wheat" type="PythonConfigurationType" factoryName="Python">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Apps\Anaconda\Anaconda5.2.0\envs\python3_7\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wheat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a5f1fde-8c4a-404e-b2ff-3587baf4fd27" name="Default Changelist" comment="" />
+      <created>1593870797156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593870797156</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="125" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593877435504">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="125" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/9.1080.1280.687/0.0.1536.824@0.0.1536.824" timestamp="1593877435504" />
+    <state x="84" y="155" key="FileChooserDialogImpl" timestamp="1593877326034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="84" y="155" key="FileChooserDialogImpl/9.1080.1280.687/0.0.1536.824@0.0.1536.824" timestamp="1593877326034" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1593890776759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/9.1080.1280.687/0.0.1536.824@0.0.1536.824" timestamp="1593890776759" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1593890776758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/9.1080.1280.687/0.0.1536.824@0.0.1536.824" timestamp="1593890776758" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1593890776758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/9.1080.1280.687/0.0.1536.824@0.0.1536.824" timestamp="1593890776758" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1593890776758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/9.1080.1280.687/0.0.1536.824@0.0.1536.824" timestamp="1593890776758" />
+    <state x="237" y="89" key="SettingsEditor" timestamp="1593882809075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="237" y="89" key="SettingsEditor/9.1080.1280.687/0.0.1536.824@0.0.1536.824" timestamp="1593882809075" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1593934272645">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/9.1080.1280.687/0.0.1536.824@0.0.1536.824" timestamp="1593934272645" />
+  </component>
+</project>
